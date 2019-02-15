@@ -1,0 +1,13 @@
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.BLL.dll.config
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.BLL.dll
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.BLL.pdb
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\EntityFramework.dll
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.DAL.dll
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.DAL.pdb
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\NTierMvc.DAL.dll.config
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\EntityFramework.xml
+E:\Practise\NTierMvc\NTierMvc.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Practise\NTierMvc\NTierMvc.BLL\obj\Debug\NTierMvc.BLL.csprojResolveAssemblyReference.cache
+E:\Practise\NTierMvc\NTierMvc.BLL\obj\Debug\NTierMvc.BLL.dll
+E:\Practise\NTierMvc\NTierMvc.BLL\obj\Debug\NTierMvc.BLL.pdb

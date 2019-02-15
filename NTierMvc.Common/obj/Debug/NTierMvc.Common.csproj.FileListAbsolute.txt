@@ -1,0 +1,5 @@
+E:\Practise\NTierMvc\NTierMvc.Common\bin\Debug\NTierMvc.Common.dll
+E:\Practise\NTierMvc\NTierMvc.Common\bin\Debug\NTierMvc.Common.pdb
+E:\Practise\NTierMvc\NTierMvc.Common\obj\Debug\NTierMvc.Common.csprojResolveAssemblyReference.cache
+E:\Practise\NTierMvc\NTierMvc.Common\obj\Debug\NTierMvc.Common.dll
+E:\Practise\NTierMvc\NTierMvc.Common\obj\Debug\NTierMvc.Common.pdb

@@ -1,0 +1,9 @@
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\NTierMvc.DAL.dll.config
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\NTierMvc.DAL.dll
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\NTierMvc.DAL.pdb
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.dll
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.xml
+E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Practise\NTierMvc\NTierMvc.DAL\obj\Debug\NTierMvc.DAL.dll
+E:\Practise\NTierMvc\NTierMvc.DAL\obj\Debug\NTierMvc.DAL.pdb

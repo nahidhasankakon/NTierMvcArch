@@ -7,3 +7,4 @@ E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.xml
 E:\Practise\NTierMvc\NTierMvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
 E:\Practise\NTierMvc\NTierMvc.DAL\obj\Debug\NTierMvc.DAL.dll
 E:\Practise\NTierMvc\NTierMvc.DAL\obj\Debug\NTierMvc.DAL.pdb
+E:\Practise\NTierMvc\NTierMvc.DAL\obj\Debug\NTierMvc.DAL.csprojResolveAssemblyReference.cache
